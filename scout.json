@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-10-31T07:05:20.394407-06:00",
+  "snapshot_fetched_at": "2026-10-31T13:05:19.388650+00:00",
+  "season_started": true,
+  "min_games": 8,
+  "edge_required": 0.15,
+  "statmap_loaded": true,
+  "stat_splits_seen": {
+    "src0_split0": 330,
+    "src0_split1": 311,
+    "src0_split2": 322,
+    "src0_split3": 330,
+    "src0_split5": 4,
+    "src1_split0": 204
+  },
+  "suggestions": [
+    {
+      "bucket": "F",
+      "add": "Viktor Arvidsson",
+      "add_rate": 2.56,
+      "add_gp": 13,
+      "add_owned_change": 8.86,
+      "drop": "Brayden Point",
+      "drop_rate": 1.49,
+      "drop_gp": 12,
+      "gain_per_game": 1.07
+    },
+    {
+      "bucket": "F",
+      "add": "Kent Johnson",
+      "add_rate": 2.42,
+      "add_gp": 11,
+      "add_owned_change": 3.92,
+      "drop": "Adrian Kempe",
+      "drop_rate": 1.8,
+      "drop_gp": 12,
+      "gain_per_game": 0.62
+    }
+  ],
+  "watchlist": [
+    {
+      "bucket": "F",
+      "player": "Pierre-Luc Dubois",
+      "rate": 1.81,
+      "gp": 7
+    },
+    {
+      "bucket": "F",
+      "player": "Nicolas Roy",
+      "rate": 1.8,
+      "gp": 7
+    },
+    {
+      "bucket": "G",
+      "player": "Adin Hill",
+      "rate": 3.31,
+      "gp": 7
+    },
+    {
+      "bucket": "G",
+      "player": "Michael DiPietro",
+      "rate": 8.17,
+      "gp": 3
+    },
+    {
+      "bucket": "G",
+      "player": "Alex Nedeljkovic",
+      "rate": 4.1,
+      "gp": 5
+    },
+    {
+      "bucket": "G",
+      "player": "Daniil Tarasov",
+      "rate": 5.55,
+      "gp": 4
+    },
+    {
+      "bucket": "G",
+      "player": "Charlie Lindgren",
+      "rate": 3.15,
+      "gp": 4
+    }
+  ],
+  "breakouts": [
+    {
+      "bucket": "G",
+      "player": "Anthony Stolarz",
+      "rate": 4.92,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 226.8,
+      "undrafted": true,
+      "percent_owned": 20.2,
+      "owned_change": 4.03
+    },
+    {
+      "bucket": "F",
+      "player": "Adam Edstrom",
+      "rate": 2.25,
+      "gp": 13,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.8,
+      "undrafted": true,
+      "percent_owned": 22.2,
+      "owned_change": -0.49
+    },
+    {
+      "bucket": "F",
+      "player": "Arseny Gritsyuk",
+      "rate": 2.14,
+      "gp": 14,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 227.9,
+      "undrafted": true,
+      "percent_owned": 37.1,
+      "owned_change": 1.41
+    },
+    {
+      "bucket": "F",
+      "player": "Tim Washe",
+      "rate": 2.04,
+      "gp": 13,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.9,
+      "undrafted": true,
+      "percent_owned": 9.2,
+      "owned_change": -0.19
+    },
+    {
+      "bucket": "F",
+      "player": "Mackie Samoskevich",
+      "rate": 2.02,
+      "gp": 13,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.7,
+      "undrafted": true,
+      "percent_owned": 2.8,
+      "owned_change": 0.44
+    },
+    {
+      "bucket": "F",
+      "player": "Matvei Gridin",
+      "rate": 1.98,
+      "gp": 13,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.6,
+      "undrafted": true,
+      "percent_owned": 9.4,
+      "owned_change": 1.35
+    },
+    {
+      "bucket": "F",
+      "player": "Martin Pospisil",
+      "rate": 1.96,
+      "gp": 13,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 230.0,
+      "undrafted": true,
+      "percent_owned": 2.6,
+      "owned_change": 0.29
+    },
+    {
+      "bucket": "F",
+      "player": "Mark Jankowski",
+      "rate": 1.95,
+      "gp": 11,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 230.0,
+      "undrafted": true,
+      "percent_owned": 12.2,
+      "owned_change": 0.06
+    }
+  ],
+  "roster_check": [],
+  "fetch_errors": []
+}
