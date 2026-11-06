@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-11-06T08:03:20.412805-06:00",
+  "snapshot_fetched_at": "2026-11-06T14:03:19.395334+00:00",
+  "season_started": true,
+  "min_games": 8,
+  "edge_required": 0.15,
+  "statmap_loaded": true,
+  "stat_splits_seen": {
+    "src0_split0": 341,
+    "src0_split1": 320,
+    "src0_split2": 332,
+    "src0_split3": 338,
+    "src0_split5": 19,
+    "src1_split0": 203
+  },
+  "suggestions": [
+    {
+      "bucket": "F",
+      "add": "Adam Edstrom",
+      "add_rate": 2.4,
+      "add_gp": 16,
+      "add_owned_change": 1.12,
+      "drop": "Adam Fantilli",
+      "drop_rate": 1.97,
+      "drop_gp": 14,
+      "gain_per_game": 0.43
+    }
+  ],
+  "watchlist": [],
+  "breakouts": [
+    {
+      "bucket": "G",
+      "player": "Michael DiPietro",
+      "rate": 6.98,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.4,
+      "undrafted": true,
+      "percent_owned": 14.5,
+      "owned_change": 1.14
+    },
+    {
+      "bucket": "F",
+      "player": "Victor Olofsson",
+      "rate": 2.52,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.9,
+      "undrafted": true,
+      "percent_owned": 12.2,
+      "owned_change": 2.47
+    },
+    {
+      "bucket": "F",
+      "player": "Adam Edstrom",
+      "rate": 2.4,
+      "gp": 16,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.7,
+      "undrafted": true,
+      "percent_owned": 24.0,
+      "owned_change": 1.12
+    },
+    {
+      "bucket": "F",
+      "player": "Martin Pospisil",
+      "rate": 2.02,
+      "gp": 16,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.7,
+      "undrafted": true,
+      "percent_owned": 6.5,
+      "owned_change": -0.12
+    },
+    {
+      "bucket": "F",
+      "player": "Michael Brandsegg-Nygard",
+      "rate": 2.01,
+      "gp": 17,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.9,
+      "undrafted": true,
+      "percent_owned": 12.1,
+      "owned_change": -0.02
+    },
+    {
+      "bucket": "F",
+      "player": "Mackie Samoskevich",
+      "rate": 2.01,
+      "gp": 14,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.8,
+      "undrafted": true,
+      "percent_owned": 7.6,
+      "owned_change": 0.04
+    },
+    {
+      "bucket": "D",
+      "player": "Kaiden Guhle",
+      "rate": 2.01,
+      "gp": 12,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.1,
+      "undrafted": true,
+      "percent_owned": 15.3,
+      "owned_change": 2.26
+    },
+    {
+      "bucket": "F",
+      "player": "Arseny Gritsyuk",
+      "rate": 1.95,
+      "gp": 16,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 226.0,
+      "undrafted": true,
+      "percent_owned": 43.4,
+      "owned_change": -0.16
+    }
+  ],
+  "roster_check": [],
+  "fetch_errors": []
+}
