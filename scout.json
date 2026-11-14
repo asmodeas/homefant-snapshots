@@ -1,0 +1,160 @@
+{
+  "generated_at": "2026-11-14T08:01:13.609877-06:00",
+  "snapshot_fetched_at": "2026-11-14T14:01:12.712801+00:00",
+  "season_started": true,
+  "min_games": 8,
+  "edge_required": 0.15,
+  "statmap_loaded": true,
+  "stat_splits_seen": {
+    "src0_split0": 339,
+    "src0_split1": 320,
+    "src0_split2": 327,
+    "src0_split3": 333,
+    "src0_split5": 3,
+    "src1_split0": 203
+  },
+  "suggestions": [
+    {
+      "bucket": "G",
+      "add": "Adin Hill",
+      "add_rate": 4.5,
+      "add_gp": 10,
+      "add_owned_change": 2.17,
+      "drop": "Dylan Garand",
+      "drop_rate": 3.77,
+      "drop_gp": 15,
+      "gain_per_game": 0.73
+    },
+    {
+      "bucket": "F",
+      "add": "Shane Pinto",
+      "add_rate": 2.25,
+      "add_gp": 20,
+      "add_owned_change": 3.1,
+      "drop": "Viktor Arvidsson",
+      "drop_rate": 1.88,
+      "drop_gp": 20,
+      "gain_per_game": 0.37
+    }
+  ],
+  "watchlist": [
+    {
+      "bucket": "F",
+      "player": "Glenn Gawdin",
+      "rate": 2.6,
+      "gp": 2
+    },
+    {
+      "bucket": "F",
+      "player": "Yanni Gourde",
+      "rate": 2.15,
+      "gp": 2
+    },
+    {
+      "bucket": "G",
+      "player": "Joonas Korpisalo",
+      "rate": 7.5,
+      "gp": 2
+    }
+  ],
+  "breakouts": [
+    {
+      "bucket": "G",
+      "player": "Michael DiPietro",
+      "rate": 6.13,
+      "gp": 6,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 227.9,
+      "undrafted": true,
+      "percent_owned": 16.1,
+      "owned_change": 0.03
+    },
+    {
+      "bucket": "G",
+      "player": "Dennis Hildeby",
+      "rate": 4.38,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.8,
+      "undrafted": true,
+      "percent_owned": 1.9,
+      "owned_change": -0.26
+    },
+    {
+      "bucket": "G",
+      "player": "Justus Annunen",
+      "rate": 3.28,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.5,
+      "undrafted": true,
+      "percent_owned": 0.6,
+      "owned_change": -0.03
+    },
+    {
+      "bucket": "F",
+      "player": "Adam Edstrom",
+      "rate": 2.12,
+      "gp": 20,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.6,
+      "undrafted": true,
+      "percent_owned": 29.6,
+      "owned_change": 0.38
+    },
+    {
+      "bucket": "F",
+      "player": "Victor Eklund",
+      "rate": 2.02,
+      "gp": 18,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.4,
+      "undrafted": true,
+      "percent_owned": 8.0,
+      "owned_change": 0.89
+    },
+    {
+      "bucket": "F",
+      "player": "Josh Anderson",
+      "rate": 1.97,
+      "gp": 18,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.5,
+      "undrafted": true,
+      "percent_owned": 8.6,
+      "owned_change": 0.32
+    },
+    {
+      "bucket": "D",
+      "player": "Kaiden Guhle",
+      "rate": 1.97,
+      "gp": 15,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.4,
+      "undrafted": true,
+      "percent_owned": 17.8,
+      "owned_change": 0.17
+    },
+    {
+      "bucket": "F",
+      "player": "Michael Brandsegg-Nygard",
+      "rate": 1.96,
+      "gp": 20,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.9,
+      "undrafted": true,
+      "percent_owned": 11.5,
+      "owned_change": -0.16
+    }
+  ],
+  "roster_check": [],
+  "fetch_errors": []
+}
