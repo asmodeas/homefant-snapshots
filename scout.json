@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-11-21T08:01:44.705836-06:00",
+  "snapshot_fetched_at": "2026-11-21T14:01:43.788241+00:00",
+  "season_started": true,
+  "min_games": 8,
+  "edge_required": 0.15,
+  "statmap_loaded": true,
+  "stat_splits_seen": {
+    "src0_split0": 337,
+    "src0_split1": 316,
+    "src0_split2": 324,
+    "src0_split3": 331,
+    "src1_split0": 205
+  },
+  "suggestions": [],
+  "watchlist": [
+    {
+      "bucket": "F",
+      "player": "Lenni Hameenaho",
+      "rate": 2.37,
+      "gp": 3
+    },
+    {
+      "bucket": "F",
+      "player": "Tyler Boucher",
+      "rate": 2.3,
+      "gp": 2
+    },
+    {
+      "bucket": "D",
+      "player": "Ian Moore",
+      "rate": 2.83,
+      "gp": 3
+    },
+    {
+      "bucket": "D",
+      "player": "Zac Jones",
+      "rate": 1.85,
+      "gp": 4
+    },
+    {
+      "bucket": "G",
+      "player": "Nikita Tolopilo",
+      "rate": 9.9,
+      "gp": 1
+    }
+  ],
+  "breakouts": [
+    {
+      "bucket": "G",
+      "player": "Michael DiPietro",
+      "rate": 5.41,
+      "gp": 7,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.3,
+      "undrafted": true,
+      "percent_owned": 15.9,
+      "owned_change": -0.07
+    },
+    {
+      "bucket": "F",
+      "player": "Martin Pospisil",
+      "rate": 2.01,
+      "gp": 23,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.9,
+      "undrafted": true,
+      "percent_owned": 7.7,
+      "owned_change": 0.15
+    },
+    {
+      "bucket": "F",
+      "player": "Adam Edstrom",
+      "rate": 1.98,
+      "gp": 22,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.9,
+      "undrafted": true,
+      "percent_owned": 23.1,
+      "owned_change": -0.4
+    },
+    {
+      "bucket": "F",
+      "player": "Michael Brandsegg-Nygard",
+      "rate": 1.96,
+      "gp": 22,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.5,
+      "undrafted": true,
+      "percent_owned": 12.1,
+      "owned_change": -0.07
+    },
+    {
+      "bucket": "D",
+      "player": "Logan Mailloux",
+      "rate": 1.96,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 230.0,
+      "undrafted": true,
+      "percent_owned": 2.3,
+      "owned_change": 0.29
+    },
+    {
+      "bucket": "F",
+      "player": "Victor Eklund",
+      "rate": 1.95,
+      "gp": 21,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.4,
+      "undrafted": true,
+      "percent_owned": 14.5,
+      "owned_change": -0.08
+    },
+    {
+      "bucket": "F",
+      "player": "Berkly Catton",
+      "rate": 1.88,
+      "gp": 19,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.7,
+      "undrafted": true,
+      "percent_owned": 8.1,
+      "owned_change": 1.33
+    },
+    {
+      "bucket": "F",
+      "player": "Arseny Gritsyuk",
+      "rate": 1.85,
+      "gp": 22,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.7,
+      "undrafted": true,
+      "percent_owned": 43.1,
+      "owned_change": -0.11
+    }
+  ],
+  "roster_check": [],
+  "fetch_errors": []
+}
