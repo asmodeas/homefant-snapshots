@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-11-28T08:02:56.565296-06:00",
+  "snapshot_fetched_at": "2026-11-28T14:02:55.522449+00:00",
+  "season_started": true,
+  "min_games": 8,
+  "edge_required": 0.15,
+  "statmap_loaded": true,
+  "stat_splits_seen": {
+    "src0_split0": 327,
+    "src0_split1": 306,
+    "src0_split2": 315,
+    "src0_split3": 320,
+    "src0_split5": 21,
+    "src1_split0": 201
+  },
+  "suggestions": [
+    {
+      "bucket": "G",
+      "add": "Daniil Tarasov",
+      "add_rate": 5.32,
+      "add_gp": 11,
+      "add_owned_change": 1.56,
+      "drop": "Connor Hellebuyck",
+      "drop_rate": 4.56,
+      "drop_gp": 11,
+      "gain_per_game": 0.76
+    },
+    {
+      "bucket": "D",
+      "add": "Logan Mailloux",
+      "add_rate": 2.27,
+      "add_gp": 9,
+      "add_owned_change": 1.23,
+      "drop": "Sam Rinzel",
+      "drop_rate": 1.71,
+      "drop_gp": 25,
+      "gain_per_game": 0.56
+    },
+    {
+      "bucket": "F",
+      "add": "Ryan Leonard",
+      "add_rate": 2.28,
+      "add_gp": 23,
+      "add_owned_change": 2.25,
+      "drop": "Adrian Kempe",
+      "drop_rate": 1.9,
+      "drop_gp": 22,
+      "gain_per_game": 0.38
+    }
+  ],
+  "watchlist": [
+    {
+      "bucket": "F",
+      "player": "Brad Marchand",
+      "rate": 2.25,
+      "gp": 4
+    },
+    {
+      "bucket": "G",
+      "player": "Filip Gustavsson",
+      "rate": 6.0,
+      "gp": 1
+    }
+  ],
+  "breakouts": [
+    {
+      "bucket": "G",
+      "player": "Michael DiPietro",
+      "rate": 5.41,
+      "gp": 7,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.4,
+      "undrafted": true,
+      "percent_owned": 14.0,
+      "owned_change": -0.25
+    },
+    {
+      "bucket": "G",
+      "player": "Devin Cooley",
+      "rate": 3.32,
+      "gp": 12,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.1,
+      "undrafted": true,
+      "percent_owned": 16.4,
+      "owned_change": -0.48
+    },
+    {
+      "bucket": "D",
+      "player": "Logan Mailloux",
+      "rate": 2.27,
+      "gp": 9,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.3,
+      "undrafted": true,
+      "percent_owned": 22.5,
+      "owned_change": 1.23
+    },
+    {
+      "bucket": "D",
+      "player": "Ian Moore",
+      "rate": 2.24,
+      "gp": 7,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.4,
+      "undrafted": true,
+      "percent_owned": 7.8,
+      "owned_change": 2.39
+    },
+    {
+      "bucket": "D",
+      "player": "Stian Solberg",
+      "rate": 2.24,
+      "gp": 5,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.9,
+      "undrafted": true,
+      "percent_owned": 0.5,
+      "owned_change": 0.38
+    },
+    {
+      "bucket": "F",
+      "player": "Roman Kantserov",
+      "rate": 2.05,
+      "gp": 26,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 225.3,
+      "undrafted": true,
+      "percent_owned": 36.0,
+      "owned_change": 4.5
+    },
+    {
+      "bucket": "F",
+      "player": "Michael Brandsegg-Nygard",
+      "rate": 1.92,
+      "gp": 25,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 229.2,
+      "undrafted": true,
+      "percent_owned": 11.1,
+      "owned_change": -0.08
+    },
+    {
+      "bucket": "F",
+      "player": "Victor Eklund",
+      "rate": 1.91,
+      "gp": 25,
+      "projected_rate": null,
+      "lift": null,
+      "adp": 228.4,
+      "undrafted": true,
+      "percent_owned": 11.2,
+      "owned_change": -0.04
+    }
+  ],
+  "roster_check": [],
+  "fetch_errors": []
+}
